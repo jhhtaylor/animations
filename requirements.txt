@@ -1,0 +1,2 @@
+manim>=0.18.0
+pycairo==1.27.0  # Pinned for macOS ARM64 compatibility
